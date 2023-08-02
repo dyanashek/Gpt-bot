@@ -9,6 +9,7 @@ Bot-advisor trained on own data, based on botsonic. Helps answer questions and m
 2. Accepts applications
 3. Provides an opportunity to contact the manager
 4. Implemented the mechanism of the request queue and the exponential growth of the response delay
+5. Transfers user data to google sheets
 ## Commands:
 **For convenience, it is recommended to add these commands to the side menu of the bot using [BotFather](https://t.me/BotFather).**
 - restart - resets the history of correspondence with the bot;
