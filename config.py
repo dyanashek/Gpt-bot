@@ -25,7 +25,6 @@ work_sheet = sheet.worksheet(LIST_NAME)
 LIST_HEADER = ['ID', 'USERNAME', 'NAME', 'PHONE', 'DATE']
 
 START_MESSAGE = 'Привет! Я чат-бот, готовый помочь вам сделать заказ на разработку бота.'
-START_MESSAGE = 'Привет! Я чат-бот, готовый помочь вам сделать заказ на разработку бота.'
 
 HELP_MESSAGE = '''
                 \nКоманды:\
